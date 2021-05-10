@@ -5,3 +5,7 @@ A Qt executable which can simulate the solution of eight digit problem.
 I created this repository as a practice of Git for Windows.
 
 《人工智能导论》这门课的作业，主要是要练习一下启发式搜索。
+
+运行EightDigitProblem文件夹下的EightDigitProblem.exe即可。
+
+输入初始和目标状态，点击start。
