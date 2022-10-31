@@ -2,7 +2,7 @@
 
 用C++Qt写的八数码问题
 A Qt executable which can simulate the solution of eight digit problem.
-I created this repository as a practice of Git for Windows.
+I created this repository also as a practice of Git for Windows.
 
 学习了A*搜索，启发式搜索效率比之前学的盲目搜索高多了。但是怎么构造启发函数还是很难的，需要一点数学基础，当然也要脑子好。
 
